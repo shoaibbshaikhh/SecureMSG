@@ -2,6 +2,8 @@
 
 SecureMSG is a web-based application designed to provide secure, encrypted messaging. It ensures that your private communications remain confidential and protected from unauthorized access.
 
+![Logo](https://github.com/shoaibbshaikhh/SecureMSG/blob/main/logo.png)
+
 ## Features
 
 - **End-to-End Encryption**: Messages are encrypted on the sender's device and decrypted only by the recipient, ensuring complete privacy.
